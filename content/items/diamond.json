@@ -1,0 +1,11 @@
+{
+  "cost": 1,
+  "color": "7EE0F9",
+  "hardness": 5,
+  "research": {
+    "parent": "thorium",
+    "reqirements": [
+      "ind-drill"
+    ]
+  }
+}

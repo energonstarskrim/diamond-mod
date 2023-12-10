@@ -1,0 +1,17 @@
+{
+  "type": "Wall",
+  "buildCostMultiplier": 0.6,
+  "health": 6000,
+  "size": 2,
+  "requirements": [
+    "diamond/24",
+    "surge-alloy/48"
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "phase-wall-large",
+    "reqirements": [
+      "diamond/200"
+    ]
+  }
+}
